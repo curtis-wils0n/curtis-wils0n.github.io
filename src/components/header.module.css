@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1em;
+  font-family: sans-serif;
+}
+.container-list ul {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}

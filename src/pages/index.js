@@ -1,10 +1,14 @@
 import * as React from "react";
-import UnderConstruction from "../components/underConstruction";
+import Header from "../components/header";
+import Footer from "../components/footer";
+import Main from "../components/main";
 
 const IndexPage = () => {
   return (
     <main>
-      <UnderConstruction />
+      <Header />
+      <Main />
+      <Footer />
     </main>
   )
 }
