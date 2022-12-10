@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcurtis_wilson_s_portfolio=self.webpackChunkcurtis_wilson_s_portfolio||[]).push([[678],{6558:function(e,t,l){l.r(t),l.d(t,{Head:function(){return s}});var n=l(7294);t.default=()=>n.createElement("main",null,n.createElement("h1",null,"As simple as it gets, for now!"));const s=()=>n.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-js-7a433dcfa191a56da63b.js.map
