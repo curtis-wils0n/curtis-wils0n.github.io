@@ -1,9 +1,10 @@
-import * as React from "react"
+import * as React from "react";
+import UnderConstruction from "../components/underConstruction";
 
 const IndexPage = () => {
   return (
     <main>
-      <h1>As simple as it gets, for now!</h1>
+      <UnderConstruction />
     </main>
   )
 }
