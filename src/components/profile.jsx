@@ -1,7 +1,7 @@
 import React from "react";
-import { container, logoContainer, logo } from "./main.module.css";
+import { container, logoContainer, logo } from "../styles/profile.module.css";
 
-const Main = () => {
+const Profile = () => {
   return (
     <div className={ container }>
       <div className={ logoContainer }>
@@ -11,9 +11,8 @@ const Main = () => {
           alt="Doghouse logo"
         />
       </div>
-      <h1>Test</h1>
     </div>
   )
 }
 
-export default Main;
+export default Profile;

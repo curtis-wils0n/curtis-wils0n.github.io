@@ -1,20 +1,11 @@
 import React from "react";
-import { container, containerList } from "./header.module.css";
+import { container } from "../styles/header.module.css";
 
 const Header = () => {
   return (
-    <header className={ container }>
-      <div>
-        <h1>Portfolio</h1>
-      </div>
-      <div className={ containerList }>
-        <ul>
-          <li>About</li>
-          <li>Projects</li>
-          <li>Links</li>
-        </ul>
-      </div>
-    </header>
+    <div className={container}>
+      <h1>Curtis Wilson's Portfolio</h1>
+    </div>
   )
 }
 

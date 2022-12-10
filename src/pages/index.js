@@ -1,17 +1,23 @@
 import * as React from "react";
 import Header from "../components/header";
-import Footer from "../components/footer";
-import Main from "../components/main";
+import Profile from "../components/profile";
 
 const IndexPage = () => {
   return (
     <main>
       <Header />
-      <Main />
+      <Profile />
     </main>
   )
 }
 
 export default IndexPage
 
-export const Head = () => <title>Home Page</title>
+export const Head = () => (
+  <>
+    <title>Home Page</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
+  </>
+)
