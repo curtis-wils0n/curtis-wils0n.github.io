@@ -1,0 +1,15 @@
+.container {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.logo {
+  width: 40%;
+}

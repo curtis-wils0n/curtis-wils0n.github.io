@@ -8,7 +8,6 @@ const IndexPage = () => {
     <main>
       <Header />
       <Main />
-      <Footer />
     </main>
   )
 }
