@@ -7,7 +7,7 @@ const Main = () => {
       <div className={ logoContainer }>
         <img
           className={ logo }
-          src="https://github.com/curtis-wils0n/curtis-wils0n.github.io/blob/feature/front-page/src/images/doghouse.png?raw=true"
+          src="https://github.com/curtis-wils0n/curtis-wils0n.github.io/blob/feature/front-page/src/images/profile.png?raw=true"
           alt="Doghouse logo"
         />
       </div>
