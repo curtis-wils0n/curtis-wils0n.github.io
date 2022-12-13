@@ -1,12 +1,14 @@
 import * as React from "react";
 import Header from "../components/header";
 import Profile from "../components/profile";
+import UnderConstruction from "../components/underConstruction";
 
 const IndexPage = () => {
   return (
     <main>
       <Header />
       <Profile />
+      <UnderConstruction />
     </main>
   )
 }
