@@ -1,6 +1,6 @@
 import React from "react";
 import useImagePreloader from "../hooks/useImagePreloader";
-import { container, logoContainer, logo } from "../styles/profile.module.css";
+import { container, logoContainer, logo, loadingLogo } from "../styles/profile.module.css";
 
 const profileImage = ["https://github.com/curtis-wils0n/curtis-wils0n.github.io/blob/feature/front-page/src/images/profile.png?raw=true"];
 
@@ -17,9 +17,10 @@ const Profile = () => {
               src={ profileImage }
               alt="Profile"
             />
-          : <p>Loading</p>
+          : <span
+              className={ loadingLogo }
+            />
         }
-        
       </div>
     </div>
   )
