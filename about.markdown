@@ -12,7 +12,7 @@ I previously spent a lot of time volunteering at local community radio stations 
 
 The goal of this site is to join the ranks of other [Old School Revival/Renaissance](https://en.wikipedia.org/wiki/Old_School_Renaissance) (OSR) bloggers and jot down thoughts on games, systems, and modules. Maybe even some recaps of actual play sessions.
 
-Please don't hesitate to reach out via the fediverse at [@xsword@mstdn.ca](https://mstdn.ca/@xsword). I'd love to chat!
+Please don't hesitate to reach out via the fediverse at [@xsword@dice.camp](https://dice.camp/@xsword). I'd love to chat!
 
 ----
 This site was built using Jekyll, with the theme _minima_:
