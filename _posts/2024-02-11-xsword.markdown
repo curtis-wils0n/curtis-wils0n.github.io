@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Welcome to xsword"
+date:   2024-02-11 13:23:59 -0700
+categories: osr
+---
+
+Welcome to 'xsword', or 'ten sword', or 'ten of swords', or... whatever you want to call it! Happy to have you here.
+
+I've decided to start this blog to have a spot to jot down my thoughts on tabletop roleplaying games, the Old School Revival/Renaissance, and maybe even occasionally, wargaming. I am constantly inspired by blogs like those by [Luke Gearing](https://lukegearing.blot.im/) and [Prismatic Wasteland](https://www.prismaticwasteland.com/), as well as videos by creatives like [Bill Making Stuff](https://www.youtube.com/@BillMakingStuff) and [Dana Howl](https://www.youtube.com/@DanaHowl), and I hope that by putting down my ideas here I can deepen my satisfaction with the hobbies I enjoy so much.
+
+To start, I may do some recaps of sessions I have been running at my office (a simple mix of [B2: Keep on the Borderlands](https://preview.drivethrurpg.com/en/product/17158/b2-the-keep-on-the-borderlands-basic) and Michael Curtis' [Stonehell Dungeon](https://www.lulu.com/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls/paperback/product-1v8vy2zz.html?page=1&pageSize=4)). The group consists of about eight rotating players who are almost entirely new to TTRPGs, and they have been doing an incredible job of working together and experimenting with the freedoms our system provides. Especially one of our magic-users, Quintin Hovel, who will always take the opportunity to taste any liquid he comes across (for the sake of magical research, of course).
+
+In the meantime, please feel free to reach out on the fediverse at [@xsword@mstdn.ca](https://mstdn.ca/@xsword) if you have any questions/comments/suggestions!
+
+Until next time.
