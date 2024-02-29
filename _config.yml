@@ -25,7 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
-  skin: auto
+  skin: dark
 
 # Build settings
 remote_theme: jekyll/minima
