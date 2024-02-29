@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Session 0: The Story So Far"
+date: 2024-02-29 12:00:00 -0700
+categories: osr
+---
+
+## A Bit of Context
+
+Once a month, my office holds a games night for all employees to get together and try out a new boardgame or videogame. In the last year we've played some great stuff like [_Formula Dé_](https://boardgamegeek.com/boardgame/173/formula-de) (a new favourite), [_King of Tokyo_](https://boardgamegeek.com/boardgame/70323/king-tokyo), and [_Keep Talking and Nobody Explodes_](https://keeptalkinggame.com/).
+
+We played one tabletop game earlier in the year (a Cyberpunk Red one-shot run by a member of the support team) and the players had an absolute blast, so when we were fishing for ideas for the next game night I threw out the possibility of DMing a shorter, old-school dungeon crawl. For some people it was their first time ever playing any kind of roleplaying game, so I printed out a few copies of Ben Milton's [_Maze Rats_](https://questingbeast.itch.io/maze-rats) and a copy of Skerples' [_Tomb of the Serpent Kings_](https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html) (_TotSK_) and got to planning.
+
+## Diving In
+
+The randomness of _Maze Rats_' character generation lends itself to being a great group activity. We all shared in the excitement of someone's PC taking shape piece-by-piece and the players were pumped about roleplaying as a party of scruffy ne'er-do-wells.
+
+Explaining the magic system was also a blast.
+
+"I can cast the spell 'insect golem'... So like a huge clay beetle?"
+
+"If that's what you want! It could also be a golem made of a swarm of regular-sized beetles."
+
+"Or how about a clay golem whose heart is a beetle?"
+
+Nowhere in the description did it say "beetle", but that player suggestion stuck out in all of our minds and could have become a stylistic theme for that PC. I find that light rulesets like _Maze Rats_ strike a sweetspot with randomness where gaps are easily filled by our imagination. These rules facilitate an environment where we're not pressured to craft the perfect story and we're relaxed enough to freely offer our ideas.
+
+Session One of _TotSK_ went off without a hitch, with many lessons learned (the magic-user will eat anything in sight, the halfling is reckless) and quite a few (non-fatal) hitpoints lost, but we had only scratched the surface of what the dungeon had to offer. At the end of the session we discussed continuing the adventure the following week.
+
+One ask was for the ruleset to be expanded to include more character progression ("like 5th Edition"). The players loved the characters they had generated with Maze Rats, but wanted more of a sense of identity. The compromise we came to was to use _Old School Essentials: Classic Fantasy_ (_OSE_) with the caveat that we kept the spirit of _Maze Rats_' creative spellcasting: we would use _OSE_'s spells, but with a focus on player interpretation.
+
+## Tomb-Robbing and Spike Traps
+
+Over the course of a few months the adventurers delved deeper and deeper into the tomb. They sated a basilisk by carting a horse into the dungeon, used a trap to knock a slimy skeleton into an abyss, and narrowly avoided death time and time again. I would call my boss (who was not playing at the time) into the room to come witness some potentially lethal fights, but the players and their dice always came out on top. Except for that one time.
+
+Desperate for treasure, the party decided not to probe the floor ahead of them with their ten-foot pole, and the two characters at the front of marching order felt stone tiles slipping beneath their feet. Precariously-balanced slabs tilted on sticks in the darkness and threatened to toss the magic-user Quintin and the dwarf Chadwick into a spike-pit, but Quintin found his footing. Chadwick, on the other hand, became the first (and only) death so far.
+
+Before Chadwick's body had even grown cold, the party discovered a statue that required two arms to be placed inside it to move. Flaco (a new member of the party from town, rolled-up by Chadwick's old player) was sent back to the spike pit to retrieve Chadwick's arms.
+
+"He's just three or four rooms away! You'll be fine."
+
+Queue some random encounter checks as Flaco makes his way and... Fungus goblins. Looking for a new king.
+
+Flaco's disappearance became a new quest for the adventurers, who a few weeks later found him seated on a throne of stolen silverware, surrounded by fungus goblins who traded him for the shiniest bauble they had ever seen (a rock with the first-level spell _light_ cast on it). Before the light could fade and the goblins could catch on, the party made their escape with arms full of treasure and their old new pal Flaco, who they definitely didn't send on a suicide mission that one time.
+
+## Conclusion
+
+And here we are! Fresh off the high of an adventure-gone-relatively-well, the party finds themselves outside the gates of Castellan's Keep: a fortress at the edge of the wilderness with goblin raids delaying shipments from the nearby hamlet of Bogtown.
+
+The next play-report will be much smaller, since this was meant to catch up any readers on the past few months of our game. I will also try to include photos of our boardroom whiteboard wall, where we draw most of our maps and diagrams.
+
+Cheers!
